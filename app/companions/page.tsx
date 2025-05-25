@@ -4,3 +4,5 @@ const CompanionsLibrary = ()=>{
         </div>
     )
 }
+
+export default CompanionsLibrary
